@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andreaamici, computer science student and mobile app developer
-- 👉 I’m interested in Software Engineering, blockchain, cryptocurrency, security and sport
-- 🌱 I’m currently learning Data Structure & Algorithms for (try) Competitive Programming 
+- 👉 I’m interested in Software Engineering, blockchain, cryptocurrency, security and sport 
 - 👀 I’m looking to Software Engineer Intership 
 - 📫 How to reach me: amiciandrea98@gmail.com
 
